@@ -1,8 +1,8 @@
 #-------------------------------
 # General Site Settings
-title: Zolan
+title: Natasha...
 logo: logo.svg # You can add own logo.
-description: Zolan is modern minimal theme for Jekyll
+description: This is my personal website to showcase my work in the field of Art and science. 
 
 
 #-------------------------------
@@ -11,7 +11,7 @@ author:
   name: Natasha Jaiswal
   image: 01.jpg
   say-hello: Hello, I’m <strong>Natasha Jaiswal</strong>
-  bio: Designs, talks, and writes about <strong>Science</strong>, <strong>Research</strong>, <strong>Atrs</strong>, and Lifestyle. I share paintings, design tutorials, free resources and inspiration. Loves <a href="#">music</a> & and painting.
+  bio: Designs, talks, and writes about <strong>Science</strong>, <strong>Research</strong>, <strong>Atrs</strong>, and Lifestyle. I share paintings, design tutorials, free resources and inspiration. Loves <a href="#">music</a> & and <a href="#">painting</a>.
 
 
 #-------------------------------
